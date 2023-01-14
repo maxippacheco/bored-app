@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Memes /> Should Match snapshot 1`] = `
+<div class="container">
+  <h1>Are you bored?</h1>
+  <div class="button-align"><button>Click here</button></div>
+  <div class="resp">
+    <!--v-if-->
+    <div class="align">
+      <!--v-if-->
+      <!--v-if-->
+      <!--v-if-->
+    </div>
+  </div>
+</div>
+`;
